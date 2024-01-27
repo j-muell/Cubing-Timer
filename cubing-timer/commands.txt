@@ -1,0 +1,10 @@
+npm create vite@latest
+    React
+    Typescript
+
+npm i 
+npm run dev (starts vite web server)
+
+when running
+    h + enter opens help
+    q + enter quits
