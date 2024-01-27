@@ -1,13 +1,32 @@
-# React + TypeScript + Vite
+# Speedcubing Timer
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This application is a WIP.
 
-Currently, two official plugins are available:
+Planned headline features available with this application compared to other timers on the market:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Login and Registration system.
+- Ability to keep track of all historical times throughout PC or Mobile applications.
+- Ability to regiser with friends and compare times with one another by filtering the public leaderboard.
+- Leaderboard data queried from the offical WCA standings in real-time.
 
-## Expanding the ESLint configuration
+Expect other basic features that are present on most timers on the market right now.
+
+## Tech Stack for the Application
+
+As of 01/27/2024 the current tech stack is as follows:
+
+- React w/ TypeScript using Vite
+- TailwindCSS with DaisyUI Component Library
+- NodeJS
+
+For inquires about this project or if you are interested in potentially contributing please email me at
+
+jasonmueller.business@gmail.com
+
+<!-- - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh -->
+
+<!-- ## Expanding the ESLint configuration
 
 If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
 
@@ -27,4 +46,4 @@ export default {
 
 - Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
 - Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list -->
