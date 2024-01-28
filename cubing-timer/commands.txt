@@ -8,3 +8,11 @@ npm run dev (starts vite web server)
 when running
     h + enter opens help
     q + enter quits
+
+
+
+ES7 extension includes useful quick snippets
+
+rfce will create a new component function with a default export at the bottom
+rafce will create a new ARROW component function with default export at the bottom
+imrse will import a useState and useEffect from react library.
